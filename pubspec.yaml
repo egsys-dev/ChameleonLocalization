@@ -1,6 +1,6 @@
-name: fancy_factory
-description: A factory for flutter widgets on fancy way.
-homepage: https://github.com/rcorbellini/FancyFactory
+name: chamaleon_resolver
+description: An easy way to solve common problems using flavors.
+homepage: https://github.com/rcorbellini/ChameleonResolver
 
 version: 0.0.1+1
 
